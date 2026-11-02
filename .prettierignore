@@ -1,0 +1,8 @@
+node_modules
+dist
+coverage
+playwright-report
+test-results
+package-lock.json
+.kiro/specs/reality-glitch/requirements.md
+.kiro/specs/reality-glitch/design.md
